@@ -1,0 +1,23 @@
+{
+  "name": "test-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "caclculator.test.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/haliljon/Test-practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/haliljon/Test-practice/issues"
+  },
+  "homepage": "https://github.com/haliljon/Test-practice#readme",
+  "devDependencies": {
+    "jest": "^29.3.1"
+  }
+}
